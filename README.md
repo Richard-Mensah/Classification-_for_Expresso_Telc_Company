@@ -9,11 +9,10 @@ The primary aim of the Expresso-Telco-Churn-Classification Capstone is to build 
 - [Data](#data)
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
-- [Deployment](#deployment)
-- [Future Work](#future-work)
+- [Deployment](#deployment) 
 - [Contact](#contact)
 
-## Objectives 🎯 :
+## Objectives 💻 :
 
 - 💻 **Objective 1** : Data Exploration 
 - 💻 **Objective 2**: Data Preprocessing 
@@ -21,7 +20,6 @@ The primary aim of the Expresso-Telco-Churn-Classification Capstone is to build 
 - 💻 **Objective 4**: Model Evaluation and Optimization 
 - 💻 **Objective 5**: Interpretation and Insights 
 - 💻 **Objective 6**: Deployment and Future Improvements 
-
 
 ## Summary
 | Code | Name                                                | Published Article                                                                                          | Deployed App                                                                                                 | Streamlit App                                                                                                |
@@ -56,12 +54,17 @@ The data used in this project consists of a diverse collection of sepsis cases o
 | FREQ_TOP_PACK   | Numeric         | Number of times the client has activated the top pack packages             |
 | CHURN           | Binary          | Target variable to predict - Churn (Positive: customer will churn, Negative: customer will not churn) |
 
+### EXPLORARY DATA ANALYSIS [EDA]
+
+## UNIVARIATE ANALYSIS
+## BIVARIATE ANALYSIS
+## MULTIVARIATE ANALYSIS
 
 ## Contact
 
 `Richard Mensah`
 
-`Data Analyst`
+`Data Analystic Professional`
 `Azubi Africa`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-mensah-ab8564190/) 
